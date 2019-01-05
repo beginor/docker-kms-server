@@ -7,6 +7,7 @@ kms.luody.info
 
 ## kms version:
 ```
+vlmcsd-1112-2018-10-20-Hotbird64
 vlmcsd-1111-2017-06-17-Hotbird64
 vlmcsd-1108-2017-01-19-Hotbird64
 ```
