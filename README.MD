@@ -120,6 +120,14 @@ cscript ospp.vbs /inpkey:XXXXX-XXXXX-XXXXX-XXXXX-XXXXX
 
  > 以下key来源于微软官网： <https://technet.microsoft.com/en-us/library/jj612867.aspx>
 
+### Windows Server 2019
+
+| 操作系统                        | KMS 激活序列号                  |
+|--------------------------------|-------------------------------|
+| Windows Server 2019 Datacenter | WMDGN-G9PQG-XVVXX-R3X43-63DFG |
+| Windows Server 2019 Standard   | N69G4-B89J2-4G8F4-WWYCC-J464C |
+| Windows Server 2019 Essentials | WVDHN-86M7X-466P6-VHXV7-YY726 |
+
 ### Windows Server 2016
 
 | 操作系统                        | KMS 激活序列号                  |
