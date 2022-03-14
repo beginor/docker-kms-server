@@ -2,3 +2,4 @@ kms-server:
   image: beginor/kms-server:latest
   ports:
     - 1688:1688
+  restart: always
