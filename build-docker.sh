@@ -1,2 +1,2 @@
-docker build -t beginor/kms-server:latest .
+docker build --platform linux/amd64 -t beginor/kms-server:latest .
 
